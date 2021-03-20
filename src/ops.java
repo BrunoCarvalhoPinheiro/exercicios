@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class corno {
+public class ops {
     public static void main(String[] args) throws Exception{
         Scanner teclado = new Scanner (System.in);
         DecimalFormat numero = new DecimalFormat("0.00");
